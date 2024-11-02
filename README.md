@@ -1,0 +1,2 @@
+# tai
+Tai - AppImage Manager
